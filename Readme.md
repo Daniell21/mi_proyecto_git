@@ -1,2 +1,2 @@
-Esta es mi primera prueba con Git.
+# Mi proyecto Git
 Esta es mi primera prueba con Git.
